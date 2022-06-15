@@ -1,7 +1,7 @@
 # FlutterTrabalhoWeb
 
-Arquivos para utilizar o GitHub.io
+Arquivos Javascript
 
-Site <a href="Fschmatz.github.io/FlutterTrabalhoWeb">Cadastro de Clientes</a>.
+Site <a href="http://144.126.248.27/FlutterTrabalhoWeb/#/">Cadastro de Clientes</a>.
 
 
